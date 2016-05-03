@@ -1,0 +1,1 @@
+this is a simple bash script for downloading the archive of Magpi magazines from a linux or Mac command line. Simply clone it, update the END variable at the top of the script to reflect the latest issue number of the magazine, and run `sh magpie_getter.sh`
